@@ -505,7 +505,7 @@
         <item>
          <widget class="QPushButton" name="pushButton_sendCommand">
           <property name="text">
-           <string>PushButton</string>
+           <string>Wyślij wiadomość</string>
           </property>
          </widget>
         </item>
